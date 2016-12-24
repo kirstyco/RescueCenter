@@ -1,0 +1,81 @@
+body { background-image: url("BGPrintsFaded.png");
+		background-size: cover;
+}
+
+
+
+.Banner {	border-radius: 10px;
+			background-color:#ffffff;
+			max-width: 80%;
+			text-align:center;
+			margin: 0 auto;
+			border: 2px #329999 solid;
+	}		
+			
+img{
+	width:100%;
+	object-fit: cover;
+}
+
+.container{
+	width:100%;
+}
+
+
+.MainBody { margin: 0 auto;
+			height: auto;
+			width: 80%;
+			border-radius: 10px;
+			background-color: #ffffff;
+			border: 2px #329999 solid;
+}
+
+.wbg {
+
+	 margin:20px auto;
+      border-radius: 10px;
+
+      max-width: 80%;
+      background-color: #ffffff;
+      border: solid #329999 3px; 
+}
+.percent80 {
+	max-width:80%;
+	margin:auto;
+}
+.AboutUs { 
+			padding: 20px;
+			font-family: Gabriola;
+			font-size: 25px;
+			
+}
+
+.Building { border: 2px solid;
+				float:right;
+				padding: 10px;
+				text-align: center;
+				margin-right: 10px;
+				margin-top: 10px;
+}
+
+.Buttons { text-align: center;
+			padding: 20px;
+}
+
+.btn1 {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #808a8a;
+  padding: 5px 5px 5px 5px;
+  text-decoration: none;
+  width: 110px;
+  height: 40px;
+}
+
+.btn1:hover {
+  background: #329999;
+  text-decoration: none;
+}
